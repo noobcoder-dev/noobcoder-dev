@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Moses</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">React & Django Developer | Learning Java & Spring Boot | From India</h3>
 
-- 🔭 I’m currently Learning Golang
+- 🔭 I’m currently learning **Spring Boot** and exploring **backend microservices with Java**
+- 💻 I build full-stack apps using **React.js + Django REST**, deployed on AWS
+- 🤝 Open to collaboration on **Java projects** as I grow my backend skills
+- 💬 Ask me about **React, Django, REST APIs, and frontend architecture**
+- 📫 Reach me at **mosessam.official@gmail.com**
 
-- 🤝 I’m looking for help with **Frontend development**
-
-- 💬 Ask me about **Html css Javscript react js**
-
-- 📫 How to reach me **mosessamanthakurthi@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mosessamanthakurthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosessamanthakurthi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mosessamanthakurthi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosessamanthakurthi" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
